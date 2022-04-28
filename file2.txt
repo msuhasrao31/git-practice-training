@@ -1,2 +1,4 @@
 Git and Github experiment
-
+git init
+git add .
+git commit
